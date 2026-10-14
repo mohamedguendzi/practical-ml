@@ -1,0 +1,8 @@
+/*
+!/.gitignore
+!/README.md
+!/Regression/
+/Regression/*
+!/Regression/TP2Guendzi.ipynb
+!/Regression/ECoG.npz
+!/Regression/TP2_regression.pdf
